@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="246" viewBox="0 0 962 246" role="img" aria-label="Luckyou-d terminal">
+<title>Luckyou-d terminal</title>
+
+<rect x="0" y="0" width="962" height="246" rx="8" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+<path d="M0 8a8 8 0 0 1 8-8h946a8 8 0 0 1 8 8v26H0z" fill="#f6f8fa"/>
+<circle cx="26" cy="17" r="5.5" fill="#ff5f57"/>
+<circle cx="46" cy="17" r="5.5" fill="#febc2e"/>
+<circle cx="66" cy="17" r="5.5" fill="#28c840"/>
+<text x="481" y="22" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#59636e" font-weight="normal" text-anchor="middle">Luckyou-d / profile</text>
+<line x1="0" y1="34" x2="962" y2="34" stroke="#d1d9e0"/>
+<text x="40" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#8250df" font-weight="700">$</text>
+<text x="62" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#8250df" font-weight="normal">CODING AGENT · OPEN SOURCE</text>
+<text x="40" y="134" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="42" font-weight="700" fill="#1f2328">杜航宇<tspan fill="#59636e" font-weight="400"> · Harvey DU</tspan></text>
+<rect x="395.3" y="102.9" width="9" height="31.9" rx="2" fill="#8250df"/>
+<text x="40" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#59636e" font-weight="normal">构建 Coding Agent，持续向一线 AI 开源仓库贡献代码</text>
+<text x="40" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">2028 届本科在读 · 专注 Coding Agent / MCP / Agent Harness</text>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "user": "Luckyou-d",
+  "scope": "upstream",
+  "visibility": "public",
+  "query": "author:Luckyou-d type:pr is:merged is:public -user:Luckyou-d",
+  "total_merged": 3,
+  "last_merged": "2026-11",
+  "complete": true,
+  "repo_count": 2,
+  "repos": [
+    {
+      "repo": "bytedance/deer-flow",
+      "stars": 85125,
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "owner": "bytedance",
+      "logo": {
+        "kind": "raster",
+        "b64": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADPklEQVR4nOzbX0hTbRwH8J8v+jpez3b2rrPZ3BHNuU1OkmI6XFauwIi6NYi6MLrqz1V0J3TRdYU3pV0GQlgIRX92sdI2GkumlWRMxUHaWjFX286TmtukxZE9IrNQMnU95/k+HHj+3fhhPtt5znPy0+k0yDn/4AoFoAAUgAL87QBBJFaMRz8LuL2W5JH0LeANBdu8oeAtAJjWM8yTEkbpLmGULouGm8Bz5AKQnUk9w7h2sP87yln14xJGObfiX6Cz59WZ4bEwj9uEpfzTzMwpbyh497Z/JHbV5/XggXxc6XWOd/U6x28AwJvm+tI+wcj1C0bOs7OSQ3gOIfkXAJpWAGSK9ImodQ8FpesiACwAwGBzfekzwci5Gqr1z8sN7PzSbBl8C0hANvdQsL3rzmvn6UuOiGvwfQUelANAdhgAUOCGHAGICwWgABSAAlAACkAB5AuQ//Pu3CyhmVn1yJdYi3SPcriMv4f7iQWIzicKAiJq8IUj9oCIDkQTyf3S3ZxVx3UCAHkAKJnMG4uJdb5w5GBARM2ZP1iJxzciOQVwfWS0eywmnsRtOS6CRbgiVwCgAJsM8MfWgI7etx1oNlmw28I5zDzrMfMskhUAABj8U/Fj/qn4eQBISnuJjYLObeJV/TZB59mmUiTwRFIBlmdx53XAP9004J9u73YGEhpV4Yt6M/dw367tPWae/YgnkgqQncIoStidQyE7mkspza3sZTxAF8EtXgQpAAWgABSAAlAACkABKAAFoAAUgAJsNYCh6D/p+FoYt0naD1hT2qpM16TLF44IARHZfeFIS+bZgAbPIRoAF2ux1i9dJ8zGzuh8Ii8gohoJYzQmHvmaSu3F84gFWF40isK0VaEdthZrhwHgSiCOVACgx+PEA2SXSrVK2m1GW7UIxgFgFjdIyGqfAOmo7MvM2WEij8pmA3zfwMPSE0KZ+sHRxtIe3JFTAK2HLGf31Boe1VYVf8B968ykiVe5zDzbb+LZPpugy5VnAYsPbVYAnDtedxPXfzPfeG3R/RqjxmHi2ac2QfcOD+RAfvnCxBLAesuF1uo2XM+ByPOVGemlqbmFlMKi4fy4b7UQBbAZvwMoAAWgAGQB/BgAFdIczCslEDsAAAAASUVORK5CYII=",
+        "mime": "image/png"
+      },
+      "logo_src": "avatar",
+      "prs": 2,
+      "prs_exact": true
+    },
+    {
+      "repo": "zauberzeug/nicegui",
+      "stars": 16330,
+      "desc": "Create web-based user interfaces with Python. The nice way.",
+      "owner": "zauberzeug",
+      "logo": {
+        "kind": "raster",
+        "b64": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADc0lEQVR4nOyZTUtbTRTHT3ITDI/Po/AUbpqmabLSjXURUFI3FpeSrUvFjZ9BBEEE6dqtCC6K4KYuFNxJfFnoNxAFlbReI5U0IIakJoYpE+aUjJ3otde8THL+h0Nm5pwjmd+c+6K6oc1FAAgAASAABIAAEAACQAAIAAEgAK0GwNbePDjQUD4AePfAwwAQEWM/APyLyToC+L/KxtDNJ065gINmBGAAQEBsip9aSHziZsN2Tu8lrBYAPGJzb8XG+GdQeEj4awDwYkEj9TcA/hMnVNmOeGp8/EaccMvZJwBIAwDTxO/wizt+VAjjrfzq96xFzP38EgJAAAhAEwEwTRM6Ojpw2l4ADMOAtbU1RwCeY58Vj5qG+sLCAuPq6upSxe9q9SIk2cjICASDwQeral1aFiR2dv6oj0Qij9afn5/D7u4uTssWj8dhZmYGp43rgK2tLWZHxWKRDQ0NSbWxWIwVCgVMUSqfz7P+/n6pLhQKsXQ6jSmOOqBuAKanp6U6/qVPT08xXFVTU1NSndfrZQcHBxjWA8DGxgZzuVxS3fr6FwxX1crKilTDx4uLixjWA8DR0RHr7u6WamZnZzFcVYeHh8zn80l1ExMTGLYD4Ba/eMMA3NzcsJ6eHik/Ho+zUqmEKUpdXV2xQCAg1UWj0fL9QCsAY2NjUm44HGaZTAbDSvGb5cfhYamOd9DZ2Rmm6AFgaWlJyjMMg+3t7WG4qubn56U6Pl5dXcWwHgD4dd/Z2al8aXnM9vf3mcfjkeomJycxrAcA3uK9vb1SDr8Unrruk8kk8/v9Ut3g4CDL5XKY0vwA+CZHR0el+Pu+PpbNZjFFKX5z4ze5yjrTNJllWZiiBwD+bl4Z43fnk5MTDNt+2XG73Wx7exvDNQXg+HcBtEQiAXNzczgtWywWg83NTZwqZVkWLC8v47Rs0WgUjo+Py45rj6lQsPUvgNp1QCqVKresKt5Av63L3wPu7+9hfHwcrq+vcallpeyAgYEBplrXpQMcA2hir88loLvaHoDnhX9evfUTAC7501R8Xgjna98wSWcAGbGRrwCQFGN0vvYdE3XsgBIApMRGKjeWrFjLYnKtVEsAecXm8CQvRNsWMblRcgLgR5VTQ3fcnvUwFw5s6AMA/CNOjp9gDgMkjUUvQu3+IkQACAABIAAEgAAQAALQtgB+DQA5SS3YicYOmgAAAABJRU5ErkJggg==",
+        "mime": "image/png"
+      },
+      "logo_src": "avatar",
+      "prs": 1,
+      "prs_exact": true
+    }
+  ],
+  "generated_at": "2026-11-08T11:02:42.419557+00:00"
+}

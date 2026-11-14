@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="402" viewBox="0 0 962 402" role="img" aria-label="4 merged PRs">
-<title>4 merged PRs</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="402" viewBox="0 0 962 402" role="img" aria-label="6 merged PRs">
+<title>6 merged PRs</title>
 
 <rect x="16" y="1" width="930" height="400" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40" y="25" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="normal">$ github contributions</text>
@@ -7,7 +7,7 @@
 <g transform="translate(0,34)">
 <rect x="40" y="47" width="7" height="7" fill="#8250df"/>
 <text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600">OPEN SOURCE / MERGED PULL REQUESTS</text>
-<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#1f2328" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">4</text>
+<text x="36" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="96" fill="#1f2328" font-weight="700" textLength="50.88" lengthAdjust="spacingAndGlyphs">6</text>
 <text x="104.88" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="18.5" fill="#59636e" font-weight="normal">merged PRs</text>
 <text x="104.88" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">覆盖 2 个仓库</text>
 <line x1="40" y1="182" x2="922" y2="182" stroke="#d1d9e0" stroke-width="1"/>
@@ -22,7 +22,7 @@
 <text x="82" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="19" fill="#1f2328" font-weight="700">zauberzeug/nicegui</text>
 <text x="82" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">Create web-based user interfaces with Python. The nice way.</text>
 <text x="922" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" fill="#59636e" font-weight="600" text-anchor="end">★ 16.3k</text>
-<text x="922" y="302" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">1 PR</text>
+<text x="922" y="302" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600" text-anchor="end">3 PRs</text>
 <line x1="40" y1="326" x2="922" y2="326" stroke="#d1d9e0" stroke-width="1"/>
 <text x="40" y="352" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">数据源 GitHub Search API（is:pr is:merged）· 每个 PR 均可在 GitHub 复核</text>
 </g>

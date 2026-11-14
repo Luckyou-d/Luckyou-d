@@ -13,6 +13,8 @@
 ## 开源贡献
 
 <!-- PRLIST:BEGIN -->
+- [zauberzeug/nicegui#6495](https://github.com/zauberzeug/nicegui/pull/6495)：Fix unquoted lists and dicts on Vue-binding props
+- [zauberzeug/nicegui#6488](https://github.com/zauberzeug/nicegui/pull/6488)：Refresh the Redis TTL of tab storages in use
 - [bytedance/deer-flow#8153](https://github.com/bytedance/deer-flow/pull/8153)：fix(memory): reject duplicate fact ids in imports regardless of entry order
 - [bytedance/deer-flow#7971](https://github.com/bytedance/deer-flow/pull/7971)：fix(gateway): keep batch cancellation running when the scheduler store fails
 - [zauberzeug/nicegui#6473](https://github.com/zauberzeug/nicegui/pull/6473)：Keep the call order of JavaScript calls without await

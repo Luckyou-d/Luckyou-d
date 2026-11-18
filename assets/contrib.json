@@ -3,14 +3,14 @@
   "scope": "upstream",
   "visibility": "public",
   "query": "author:Luckyou-d type:pr is:merged is:public -user:Luckyou-d",
-  "total_merged": 6,
+  "total_merged": 7,
   "last_merged": "2026-11",
   "complete": true,
-  "repo_count": 2,
+  "repo_count": 3,
   "repos": [
     {
       "repo": "bytedance/deer-flow",
-      "stars": 85436,
+      "stars": 85476,
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "owner": "bytedance",
       "logo": {
@@ -24,7 +24,7 @@
     },
     {
       "repo": "zauberzeug/nicegui",
-      "stars": 16344,
+      "stars": 16349,
       "desc": "Create web-based user interfaces with Python. The nice way.",
       "owner": "zauberzeug",
       "logo": {
@@ -35,7 +35,21 @@
       "logo_src": "avatar",
       "prs": 3,
       "prs_exact": true
+    },
+    {
+      "repo": "langgenius/graphon",
+      "stars": 90,
+      "desc": "Graphon is a Python graph execution engine for agentic AI workflows.",
+      "owner": "langgenius",
+      "logo": {
+        "kind": "raster",
+        "b64": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAEeElEQVR4nOxZXUhk5R9+xvHjuP6X+Y8TMsqEBuO4XuQiA5qo+IFfyECjraZiaCDUlZsQdScNEkR5oxdChRe5EBrujDrpjS5INdg2hpKOjlOTQYsihU6mNprOifPxm1VXbWec3VZ4n9/Lnt/7PL89nuec90uM5nkeVxlRlDADzAAzwAwwA8wAM8AMMAPMADPADDADzAAzcLUMRFNyGtvb23l5edSTwXGcTqczGAyVlZUlJSVKpZKUE3D/gtvd8P2Jd1tRW0IswfsA3Xfw7QIODmXm7oe4kSbnIQd/Dra2tqjkbBgMBpvNRuUncOsdHkahJZYQRbj3HX8tX1aDbX6F5NARjYsfUwy9Xh8TEwNgb29vY2PD7/cD8Hg8NTU1Fouls7OTCmUc/H06keKvfbzWiT0//n8dyc8RC8TFUhYGyMlFX8Dr9RLN7+/v2+32rKwsEjExMSFrFPcX+cxbfHIl/+nJLzR5X37lb7xP1KUBSh7XgBQ7Ozu5ubmCBmRmZh4dHZFyEe6MR97AYw2hRyMhIaGvr89oNAJYXl6enZ3NupnzwWckE7Iz8HIRvl+G/Wuh+8OPMj+7jPc+kXMAb76Cr+59sbS0BKC8vDw/P58UzM3NjY6OAkhLS2ttbSX6GMhJaF9ACr1eL8hAb2/v1vbpqQkj/7pFKPv47hnS8Ta/wvf09Ag3AsxmM91eiLa2NoEFLBbLQ/ZYXGofyM7OFq/ChCYuTNTW1kqL8uTkpLRIAAgEAuPj42KKxsZGqo3cRpaUlCRtZD6f73oCPDa59bxNFWK8WiHzH92WmQZipH9vpEGn0xUWFgLY3d2dmpoSq+B0OtfX1wEYjcb09HT5P5+MMOeA1A4P5a1IqVQqo5D+vCzMH1siAaj+JzQAWs1DJlgcjKampunpaQA2m81kMklJUKKqiH6B1dVV8Yrk5GTiwkd9fX1cXByAkZER6dUMDw8LgyQq6okYODg4cDqdwZWU6PChUqmqqqoAbG5uOhwOl8vl9XoBVFRUaLVaqoqcgcHBQWmlUigUpaWlRF8KdXV14hVfioCIlpYW0iM3BxwOR3t7e/Cn6nQ6Ui4Fs9nMcZzf7x8bG9NohBmjVqvNZjPp4RpYWFiQXnYgEFhZWbHb7VarVRqmiYmJ3d3dAH76FX/syPU/P5CT333CLhbE6pqc/LZ1gs98Adc4eX+srq62Wq0ej0ehUEjLK8dxVHhGKM77I5/P51Or1dQ7G1qt1mq1Sqdu01sY/4aEEDH/OW4a5HxoaKihoUHuiNtCWVkZ9SI3B1QqVUdHh8vlevR3hkvCZDLFx8eLKVJSUoqLi0kJcQhxHNfV1UU9GRzHaTSajIwMo9EoLXlBNFfjpRepEyKC+4M0ilJTU91ut3DP5ubo6H8b5HSm+O+xuLg4MzNjsVjo0eB2u0kM/Tj99BE8n595qjsvwt8HniiKior6+/uph3BWoacfAwMDa2trsbGxOTk5BQUFRF8dA+Eh6pl+OmaAGWAGmAFmgBlgBpgBZoAZYAaYAWbgGTbwzwDLIcm0j6gAVwAAAABJRU5ErkJggg==",
+        "mime": "image/png"
+      },
+      "logo_src": "avatar",
+      "prs": 1,
+      "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-17T12:08:09.366126+00:00"
+  "generated_at": "2026-11-18T09:31:49.189623+00:00"
 }

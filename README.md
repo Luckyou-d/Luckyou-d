@@ -13,6 +13,7 @@
 ## 开源贡献
 
 <!-- PRLIST:BEGIN -->
+- [langgenius/graphon#392](https://github.com/langgenius/graphon/pull/392)：build: allow Python 3.14
 - [zauberzeug/nicegui#6495](https://github.com/zauberzeug/nicegui/pull/6495)：Fix unquoted lists and dicts on Vue-binding props
 - [zauberzeug/nicegui#6488](https://github.com/zauberzeug/nicegui/pull/6488)：Refresh the Redis TTL of tab storages in use
 - [bytedance/deer-flow#8153](https://github.com/bytedance/deer-flow/pull/8153)：fix(memory): reject duplicate fact ids in imports regardless of entry order

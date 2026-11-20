@@ -13,6 +13,7 @@
 ## 开源贡献
 
 <!-- PRLIST:BEGIN -->
+- [zauberzeug/nicegui#6509](https://github.com/zauberzeug/nicegui/pull/6509)：Create background tasks on the caller's event loop outside the app
 - [langgenius/graphon#392](https://github.com/langgenius/graphon/pull/392)：build: allow Python 3.14
 - [zauberzeug/nicegui#6495](https://github.com/zauberzeug/nicegui/pull/6495)：Fix unquoted lists and dicts on Vue-binding props
 - [zauberzeug/nicegui#6488](https://github.com/zauberzeug/nicegui/pull/6488)：Refresh the Redis TTL of tab storages in use

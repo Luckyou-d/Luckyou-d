@@ -13,6 +13,8 @@
 ## 开源贡献
 
 <!-- PRLIST:BEGIN -->
+- [huggingface/smolagents#3242](https://github.com/huggingface/smolagents/pull/3242)：fix: send a base_url model with the call instead of to the client
+- [zauberzeug/nicegui#6500](https://github.com/zauberzeug/nicegui/pull/6500)：Fix previous_value for elements with dict-backed options
 - [bytedance/deer-flow#8423](https://github.com/bytedance/deer-flow/pull/8423)：fix(feishu): keep a card's markdown image from failing every update
 - [zauberzeug/nicegui#6509](https://github.com/zauberzeug/nicegui/pull/6509)：Create background tasks on the caller's event loop outside the app
 - [langgenius/graphon#392](https://github.com/langgenius/graphon/pull/392)：build: allow Python 3.14

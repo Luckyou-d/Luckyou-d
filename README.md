@@ -25,3 +25,11 @@
 - [zauberzeug/nicegui#6473](https://github.com/zauberzeug/nicegui/pull/6473)：Keep the call order of JavaScript calls without await
 - [bytedance/deer-flow#7892](https://github.com/bytedance/deer-flow/pull/7892)：fix(harness): reject Windows reserved device names in thread ID validation
 <!-- PRLIST:END -->
+
+## 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luckyou-d/Luckyou-d/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Luckyou-d/Luckyou-d/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
+</picture>
+

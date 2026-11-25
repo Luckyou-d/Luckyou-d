@@ -10,8 +10,8 @@
 <line x1="0" y1="34" x2="962" y2="34" stroke="#3d444d"/>
 <text x="40" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#ab7df8" font-weight="700">$</text>
 <text x="62" y="84" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#ab7df8" font-weight="normal">CODING AGENT · OPEN SOURCE</text>
-<text x="40" y="134" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">杜航宇<tspan fill="#9198a1" font-weight="400"> · Harvey DU</tspan></text>
-<rect x="395.3" y="102.9" width="9" height="31.9" rx="2" fill="#ab7df8"/>
+<text x="40" y="134" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">Harvey Du</text>
+<rect x="261.2" y="102.9" width="9" height="31.9" rx="2" fill="#ab7df8"/>
 <text x="40" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#9198a1" font-weight="normal">构建 Coding Agent，持续向一线 AI 开源仓库贡献代码</text>
-<text x="40" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">2028 届本科在读 · 专注 Coding Agent / MCP / Agent Harness</text>
+<text x="40" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#9198a1" font-weight="normal">2028 届本科在读 · 专注 Coding Agent / MCP / Agent Harness / RSI</text>
 </svg>

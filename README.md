@@ -13,6 +13,7 @@
 ## 开源贡献
 
 <!-- PRLIST:BEGIN -->
+- [Tencent/teamai-cli#2108](https://github.com/Tencent/teamai-cli/pull/2108)：test(trae): give the shared-file case a budget the loaded runner has time for
 - [huggingface/smolagents#3242](https://github.com/huggingface/smolagents/pull/3242)：fix: send a base_url model with the call instead of to the client
 - [zauberzeug/nicegui#6500](https://github.com/zauberzeug/nicegui/pull/6500)：Fix previous_value for elements with dict-backed options
 - [bytedance/deer-flow#8423](https://github.com/bytedance/deer-flow/pull/8423)：fix(feishu): keep a card's markdown image from failing every update
